@@ -2,7 +2,6 @@
 OpenGL ES sample codes for the textbook
 
 ## Lecture Notes
-- [AR Review (Sample)](https://drive.google.com/file/d/0B9BjpkBSqiK7ZkdLdGwwbXpmeHc/view?usp=sharing)
 - [TOC and Preface](http://media.korea.ac.kr/book/LectureNotes/toc_and_preface.pdf)
 - [Lecture Note 01](http://media.korea.ac.kr/book/LectureNotes/chapter1.ppt)
 - [Lecture Note 02](http://media.korea.ac.kr/book/LectureNotes/chapter2.ppt)
@@ -17,3 +16,4 @@ OpenGL ES sample codes for the textbook
 - [Lecture Note 11](http://media.korea.ac.kr/book/LectureNotes/chapter11.ppt)
 - [Lecture Note 12](http://media.korea.ac.kr/book/LectureNotes/chapter12.ppt)
 - [Errata](http://media.korea.ac.kr/book/LectureNotes/errata.pdf)
+- [AR Review (GoogleDrive Sample)](https://drive.google.com/open?id=0B9BjpkBSqiK7NUxhcjc5TjZLRFE)

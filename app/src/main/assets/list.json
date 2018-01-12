@@ -1,0 +1,44 @@
+{
+	"examples": [
+		{
+			"title": "Hello Teapot",
+			"desc": "Ch 6. A simple teapot object."
+		},
+		{
+			"title": "Image Texturing",
+			"desc": "Ch 8. Brick teapot made with image texturing."
+		},
+		{
+			"title": "Phong Lighting",
+			"desc": "Ch 9. Brick teapot with phong lighting effect."
+		},
+		{
+			"title": "Arcball Rotation",
+			"desc": "Ch 12. Brick teapot rotation using the arcball."
+		},
+		{
+			"title": "World-space\nNormal Mapping",
+			"desc": "Ch 14. Realistic brick wall(xy-plane) made with world-space normal mapping."
+		},
+		{
+			"title": "Tangent-space\nNormal Mapping",
+			"desc": "Ch 14. Realistic brick teapot made with tangent-space normal mapping."
+		},
+		{
+			"title": "Shadow Mapping",
+			"desc": "Ch 15. Shaded brick teapot made with shadow mapping."
+		},
+		{
+			"title": "Cube Mapping",
+			"desc": "Ch 16. Skybox and teapot made with environmental cube mapping."
+		},
+		{
+			"title": "PN Triangles",
+			"desc": "Ch 18. Boar made with PN Triangles."
+		},
+		{
+			"title": "Displacement Mapping",
+			"desc": "Ch 18. Terrain made with displacement mapping."
+		}
+	]
+}

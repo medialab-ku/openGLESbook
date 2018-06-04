@@ -1,4 +1,4 @@
-## Introduction to Computer Graphics with OpenGL ES
+# Introduction to Computer Graphics with OpenGL ES
 
 ![Book Cover](http://media.korea.ac.kr/books/covers/2/eng.jpg)
 

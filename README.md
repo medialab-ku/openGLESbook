@@ -14,6 +14,7 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 - Includes problem sets, solutions manual, and lecture notes for those wishing to use this book as a course text
 
 ## Lecture Notes
+- [TOC and Preface](http://media.korea.ac.kr/books/notes/2/TOC%20and%20preface.pdf)
 - [Chapter 1 (introduction)](http://media.korea.ac.kr/books/notes/2/chapter%201%20(introduction).ppt)
 - [Chapter 2 (math basics)](http://media.korea.ac.kr/books/notes/2/chapter%202%20(math%20basics).ppt)
 - [Chapter 3 (modeling)](http://media.korea.ac.kr/books/notes/2/chapter%203%20(modeling).ppt)

@@ -25,7 +25,7 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 - [Chapter 8 (image texturing)](http://media.korea.ac.kr/books/notes/3/chapter%208%20(image%20texturing).ppt) (Updated at 190429)
 - [Chapter 9 (lighting)](http://media.korea.ac.kr/books/notes/3/chapter%209%20(lighting).ppt) (Updated at 190429)
 - [Chapter 10 (output merger)](http://media.korea.ac.kr/books/notes/3/chapter%2010%20(output%20merger).ppt) (Updated at 190429)
-- [Chapter 11 (Euler transforms and quaternions)](http://media.korea.ac.kr/books/notes/3/chapter%2011%20(Euler%20transforms%20and%20quaternions).ppt) [videos](http://media.korea.ac.kr/books/notes/3/videos.zip) (Updated at 190607)
+- [Chapter 11 (Euler transforms and quaternions)](http://media.korea.ac.kr/books/notes/3/chapter%2011%20(Euler%20transforms%20and%20quaternions).ppt) ([videos](http://media.korea.ac.kr/books/notes/3/videos.zip)) (Updated at 190607)
 - [Chapter 12 (screen-space object manipulation)](http://media.korea.ac.kr/books/notes/3/chapter%2012%20(screen-space%20object%20manipulation).ppt) (Updated at 190607)
 - [Chapter 13 (character animation)](http://media.korea.ac.kr/books/notes/3/chapter%2013%20(character%20animation).ppt) (Updated at 190607)
 - [Chapter 14 (normal mapping)](http://media.korea.ac.kr/books/notes/3/chapter%2014%20(normal%20mapping).ppt) (Updated at 190607)

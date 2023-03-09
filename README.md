@@ -15,9 +15,9 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 
 ## Lecture Notes
 - [TOC and Preface](http://media.korea.ac.kr/books/notes/2/TOC%20and%20preface.pdf)
-- [Chapter 1 (introduction)](http://media.korea.ac.kr/books/notes/3/chapter%201%20(introduction).ppt) (Updated at 190429)
-- [Chapter 2 (math basics)](http://media.korea.ac.kr/books/notes/4/chapter02(mathBasics).pptx) (Updated at 230308) 
-- [Chapter 3 (modeling)](http://media.korea.ac.kr/books/notes/3/chapter%203%20(modeling).ppt) (Updated at 190429)
+- [Chapter 1 (introduction)](https://drive.google.com/uc?id=1zr-CgUA7lJEzCN79ICY4x0GMRdZK8osS&authuser=3&export=download) (Updated at 230309)
+- [Chapter 2 (math basics)](https://drive.google.com/uc?id=1eUFQorP_yj9gHBza36Go15rrQ1UOKRJx&authuser=3&export=download) (Updated at 230309) 
+- [Chapter 3 (modeling)](https://drive.google.com/uc?id=1i-PMoSY9FoLF0ywx_b52K1vDZ7XyyqTx&authuser=3&export=download) (Updated at 230309)
 - [Chapter 4 (spaces and transforms)](http://media.korea.ac.kr/books/notes/3/chapter%204%20(spaces%20and%20transforms).ppt) (Updated at 190429)
 - [Chapter 5 (vertex processing)](http://media.korea.ac.kr/books/notes/3/chapter%205%20(vertex%20processing).ppt) (Updated at 190429)
 - [Chapter 6 (OpenGL ES and shader)](http://media.korea.ac.kr/books/notes/3/chapter%206%20(OpenGL%20ES%20and%20shader).ppt) (Updated at 190429)

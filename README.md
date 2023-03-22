@@ -19,7 +19,7 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 - [Chapter 2 (math basics)](https://drive.google.com/uc?id=1eUFQorP_yj9gHBza36Go15rrQ1UOKRJx&authuser=3&export=download) (Updated at 230309) 
 - [Chapter 3 (modeling)](https://drive.google.com/uc?id=1i-PMoSY9FoLF0ywx_b52K1vDZ7XyyqTx&authuser=3&export=download) (Updated at 230309)
 - [Chapter 4 (spaces and transforms)](https://drive.google.com/uc?id=16PLiIrnDrRC0AWFLUmbCPvb0VEF4Y8R8&authuser=3&export=download) (Updated at 230320)
-- [Chapter 5 (vertex processing)](http://media.korea.ac.kr/books/notes/3/chapter%205%20(vertex%20processing).ppt) (Updated at 190429)
+- [Chapter 5 (vertex processing)](https://drive.google.com/uc?id=1Br2DomCRjtYuU5H3JY5b2Xlfs5-ll1K0&authuser=3&export=download) (Updated at 230322)
 - [Chapter 6 (OpenGL ES and shader)](http://media.korea.ac.kr/books/notes/3/chapter%206%20(OpenGL%20ES%20and%20shader).ppt) (Updated at 190429)
 - [Chapter 7 (rasterizer)](http://media.korea.ac.kr/books/notes/3/chapter%207%20(rasterizer).ppt) (Updated at 190429)
 - [Chapter 8 (image texturing)](http://media.korea.ac.kr/books/notes/3/chapter%208%20(image%20texturing).ppt) (Updated at 190429)

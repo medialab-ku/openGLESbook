@@ -23,7 +23,7 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 - [Chapter 6 (OpenGL ES and shader)](https://drive.google.com/uc?id=1NRgfPw9gewSbyd6e7xHwPJOBz5xdBqQ3&authuser=3&export=download) (Updated at 230405)
 - [Chapter 7 (rasterizer)](https://drive.google.com/uc?id=1uyj5mC4OT8-Ng_6Ka5wyu3z0tztwgzaS&authuser=3&export=download) (Updated at 230403)
 - [Chapter 8 (image texturing)](https://drive.google.com/uc?id=193PH8-SMyXbC_FFtyefNBXGDjJvxaSvi&authuser=3&export=download) (Updated at 230405)
-- [Chapter 9 (lighting)](http://media.korea.ac.kr/books/notes/3/chapter%209%20(lighting).ppt) (Updated at 190429)
+- [Chapter 9 (lighting)](https://drive.google.com/uc?id=15-Q-EMAF7lh9WSS8yRcdrsEYRU1uwUaO&authuser=3&export=download) (Updated at 230411)
 - [Chapter 10 (output merger)](http://media.korea.ac.kr/books/notes/3/chapter%2010%20(output%20merger).ppt) (Updated at 190429)
 - [Chapter 11 (Euler transforms and quaternions)](http://media.korea.ac.kr/books/notes/3/chapter%2011%20(Euler%20transforms%20and%20quaternions).ppt) ([videos](http://media.korea.ac.kr/books/notes/3/videos.zip)) (Updated at 190607)
 - [Chapter 12 (screen-space object manipulation)](http://media.korea.ac.kr/books/notes/3/chapter%2012%20(screen-space%20object%20manipulation).ppt) (Updated at 190607)

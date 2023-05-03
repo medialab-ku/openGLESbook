@@ -25,7 +25,7 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 - [Chapter 8 (image texturing)](https://drive.google.com/uc?id=193PH8-SMyXbC_FFtyefNBXGDjJvxaSvi&authuser=3&export=download) (Updated at 230405)
 - [Chapter 9 (lighting)](https://drive.google.com/uc?id=1zBOe9t7mkTfKXVcBMwuGpG6CZz7gzo0Z&authuser=3&export=download) (Updated at 230417)
 - [Chapter 10 (output merger)](https://drive.google.com/uc?id=1RTynaDWxRvMNQerJ5rzwf7wRe3-E30OH&authuser=3&export=download) (Updated at 230417)
-- [Chapter 11 (Euler transforms and quaternions)](http://media.korea.ac.kr/books/notes/3/chapter%2011%20(Euler%20transforms%20and%20quaternions).ppt) ([videos](http://media.korea.ac.kr/books/notes/3/videos.zip)) (Updated at 190607)
+- [Chapter 11 (Euler transforms and quaternions)](https://drive.google.com/uc?id=1B3anaS90UiQz4Zb_7tzB1Yl-hczxyVI4&authuser=3&export=download) ([videos](http://media.korea.ac.kr/books/notes/3/videos.zip)) (Updated at 230503)
 - [Chapter 12 (screen-space object manipulation)](https://drive.google.com/uc?id=1BFAXZlP6YXhDym2MmvZ7ylv1xGOYKLfH&authuser=3&export=download) (Updated at 230501)
 - [Chapter 13 (character animation)](http://media.korea.ac.kr/books/notes/3/chapter%2013%20(character%20animation).ppt) (Updated at 190607)
 - [Chapter 14 (normal mapping)](http://media.korea.ac.kr/books/notes/3/chapter%2014%20(normal%20mapping).ppt) (Updated at 190607)

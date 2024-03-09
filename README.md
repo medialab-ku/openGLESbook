@@ -15,8 +15,8 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 
 ## Lecture Notes
 - [TOC and Preface](http://media.korea.ac.kr/books/notes/2/TOC%20and%20preface.pdf)
-- [Chapter 1 (introduction)](https://docs.google.com/presentation/d/1Z-zSH8tVpuKaph0mdLe_EG8dDnoQzS1-/edit?usp=sharing&ouid=110922780509571457905&rtpof=true&sd=true) (Updated at 240304)
-- [Chapter 2 (math basics)](https://drive.google.com/uc?id=1eUFQorP_yj9gHBza36Go15rrQ1UOKRJx&authuser=3&export=download) (Updated at 230309) 
+- [Chapter 1 (introduction)](https://docs.google.com/presentation/d/1pXrzl1b4r0V5BGi8d2BqD7Oj3VKwsq4Y/edit?usp=sharing&ouid=102800129687253855450&rtpof=true&sd=true) (Updated at 240304)
+- [Chapter 2 (math basics)](https://docs.google.com/presentation/d/1NCTjQTpCIJjy2inKAjttAjdomYRWmpdK/edit?usp=sharing&ouid=102800129687253855450&rtpof=true&sd=true) (Updated at 240309) 
 - [Chapter 3 (modeling)](https://drive.google.com/uc?id=1i-PMoSY9FoLF0ywx_b52K1vDZ7XyyqTx&authuser=3&export=download) (Updated at 230309)
 - [Chapter 4 (spaces and transforms)](https://drive.google.com/uc?id=16PLiIrnDrRC0AWFLUmbCPvb0VEF4Y8R8&authuser=3&export=download) (Updated at 230320)
 - [Chapter 5 (vertex processing)](https://drive.google.com/uc?id=1Br2DomCRjtYuU5H3JY5b2Xlfs5-ll1K0&authuser=3&export=download) (Updated at 230322)

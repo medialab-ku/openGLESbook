@@ -21,7 +21,7 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 - [Chapter 4 (spaces and transforms)](https://docs.google.com/presentation/d/1M7GiWM01kaeXLQr6YtawTM2n3P6v3d4D/edit?usp=sharing&ouid=102800129687253855450&rtpof=true&sd=true) (Updated at 240320)
 - [Chapter 5 (vertex processing)](https://docs.google.com/presentation/d/1l3UJoxxiLNS2fL89ONkMxFuNYhPOa-Aw/edit?usp=sharing&ouid=102800129687253855450&rtpof=true&sd=true) (Updated at 240408)
 - [Chapter 6 (OpenGL ES and shader)](https://docs.google.com/presentation/d/1qNPvS4OD0uvxjYu61uJIAiGpbmJB4fAG/edit?usp=sharing&ouid=102800129687253855450&rtpof=true&sd=true) (Updated at 240408)
-- [Chapter 7 (rasterizer)](https://drive.google.com/uc?id=1uyj5mC4OT8-Ng_6Ka5wyu3z0tztwgzaS&authuser=3&export=download) (Updated at 230403)
+- [Chapter 7 (rasterizer)](https://docs.google.com/presentation/d/1j1RL0Ta0pVwZxoc44XF5y36Ae93h-6d-/edit?usp=sharing&ouid=102800129687253855450&rtpof=true&sd=true) (Updated at 240415)
 - [Chapter 8 (image texturing)](https://drive.google.com/uc?id=193PH8-SMyXbC_FFtyefNBXGDjJvxaSvi&authuser=3&export=download) (Updated at 230405)
 - [Chapter 9 (lighting)](https://drive.google.com/uc?id=1zBOe9t7mkTfKXVcBMwuGpG6CZz7gzo0Z&authuser=3&export=download) (Updated at 230417)
 - [Chapter 10 (output merger)](https://drive.google.com/uc?id=1RTynaDWxRvMNQerJ5rzwf7wRe3-E30OH&authuser=3&export=download) (Updated at 230417)

@@ -35,4 +35,4 @@ OpenGL ES is the standard graphics API used for mobile and embedded systems. Des
 - [Chapter 18 (surface tessellation)](http://media.korea.ac.kr/books/notes/2/chapter%2018%20(surface%20tessellation).ppt)
 
 ## Solutions
-- [Solutions](http://media.korea.ac.kr/books/solutions.pdf)
+- [Solutions](https://drive.google.com/file/d/1QSsYbh2URIgYBt3gZ7ah1RCJSkk-j2aI/view?usp=sharing)
